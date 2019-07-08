@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "lightmaps",
+"productVersion": "0.1",
+"dataUrl": "lightweb.data.unityweb",
+"wasmCodeUrl": "lightweb.wasm.code.unityweb",
+"wasmFrameworkUrl": "lightweb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.4f1"
+}
